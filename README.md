@@ -10,7 +10,7 @@
 
 <br><br>
 
-### Portafolio Digital de Aprendizaje – Diseño de circuitos
+### Portafolio Digital – Diseño de circuitos
 
 <br>
 
@@ -46,5 +46,21 @@
 <br>
 <p>Loja, Ecuador<br>2026</p>
 <br><br>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="center">📁</td>
+      <td align="center"><a href="./Unidad_1/"><b>Ir a la Unidad 1</b></a></td>
+    </tr>
+    <tr>
+      <td align="center">📁</td>
+      <td align="center"><a href="./Unidad_2/"><b>Ir a la Unidad 2</b></a></td>
+    </tr>
+    <tr>
+      <td align="center">📁</td>
+      <td align="center"><a href="./Unidad_3/"><b>Ir a la Unidad 3</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
